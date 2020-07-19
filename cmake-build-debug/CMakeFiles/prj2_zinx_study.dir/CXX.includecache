@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/es/prj2_zinx_study/ZinxTimer.cpp
+zinx.h
+-
+ZinxTimer.h
+/home/es/prj2_zinx_study/ZinxTimer.h
+sys/timerfd.h
+-
+
+/home/es/prj2_zinx_study/ZinxTimer.h
+zinx.h
+-
+list
+-
+vector
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/prj2_zinx_study.dir/main.cpp.o CMakeFiles/prj2_zinx_study.dir/StdinOutchannel.cpp.o CMakeFiles/prj2_zinx_study.dir/CmdCheck.cpp.o CMakeFiles/prj2_zinx_study.dir/CmdMsg.cpp.o CMakeFiles/prj2_zinx_study.dir/EchoRole.cpp.o CMakeFiles/prj2_zinx_study.dir/ZinxTimer.cpp.o  -o prj2_zinx_study  -lzinx -lzinx 
